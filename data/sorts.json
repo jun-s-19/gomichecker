@@ -7,6 +7,42 @@
 		"text":"不燃ごみ",
 		"shortText":"不燃"
 	},
+	"harmful":{
+		"text":"有害ごみ",
+		"shortText":"有害"
+	},
+	"plastic":{
+		"name":"容器包装プラスチック",
+		"shortText":"プラ"
+	},
+	"PET":{
+		"name":"ペットボトル",
+		"shortText":"ペット"
+	},
+	"bottle":{
+		"name":"びん",
+		"shortText":"びん"
+	},
+	"can":{
+		"name":"缶",
+		"shortText":"缶"
+	},
+	"newspaper":{
+		"name":"新聞",
+		"shortText":"新聞"
+	},
+	"cardboard":{
+		"name":"ダンボール",
+		"shortText":"段"
+	},
+	"zatsugami":{
+		"name":"雑誌・雑紙・紙パック",
+		"shortText":"雑紙"
+	},
+	"cloth":{
+		"name":"古着・古布",
+		"shortText":"布"
+	},
 	"recyclable":{
 		"text":"資源ごみ",
 		"shortText":"資源"
