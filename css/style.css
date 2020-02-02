@@ -418,17 +418,62 @@ a.open-sidebar.md-btn-icon:visited {
 
 /* 分別カラー
 ---------------------------------------------- */
-/* 可燃 */
+/* 可燃ごみ */
 .burnable {
 	color: #fff;
 	background-color: #f45;
 }
-/* 不燃 */
+/* 不燃ごみ */
 .nonburnable {
 	color: #fff;
 	background-color: #58f;
 }
-/* 資源 */
+/* 有害ごみ */
+.harmful {
+	color: #fff;
+	background-color: #222;
+}
+/* 容器包装プラスチック */
+.plastic {
+	color: #fff;
+	background-color: #35f;
+}
+/* ペットボトル */
+.PET {
+	color: #fff;
+	background-color: #6b4;
+}
+/* びん */
+.bottle {
+	color: #fff;
+	background-color: #999;
+}
+/* 缶 */
+.can {
+	color: #fff;
+	background-color: #372;
+}
+/* 新聞 */
+.newspaper {
+	color: #fff;
+	background-color: #58f;
+}
+/* ダンボール */
+.cardboard {
+	color: #fff;
+	background-color: #58f;
+}
+/* 雑誌・雑紙・紙パック */
+.zatsugami {
+	color: #fff;
+	background-color: #58f;
+}
+/* 古着・古布 */
+.cloth {
+	color: #fff;
+	background-color: #58f;
+}
+/* 資源ごみ */
 .recyclable {
 	color: #fff;
 	background-color: #392;
