@@ -51,6 +51,22 @@
 		"text":"資源ごみ",
 		"shortText":"資源"
 	},
+	"largeNonburnable":{
+		"text":"粗大ごみ（不燃）",
+		"shortText":"粗大（不燃）"
+	},
+	"largeBurnable":{
+		"text":"粗大ごみ（可燃）",
+		"shortText":"粗大（可燃）"
+	},
+	"kaden":{
+		"text":"家電リサイクル",
+		"shortText":"家電"
+	},
+	"personalComputer":{
+		"text":"パソコンリサイクル",
+		"shortText":"パソコン"
+	},
 	"uncollectible":{
 		"text":"収集できません",
 		"shortText":"不可"
