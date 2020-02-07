@@ -436,7 +436,7 @@ a.open-sidebar.md-btn-icon:visited {
 /* 容器包装プラスチック */
 .plastic {
 	color: #fff;
-	background-color: #35f;
+	background-color: #999;
 }
 /* ペットボトル */
 .PET {
@@ -463,8 +463,13 @@ a.open-sidebar.md-btn-icon:visited {
 	color: #fff;
 	background-color: #58f;
 }
-/* 雑誌・雑紙・紙パック */
+/* 雑誌・雑紙 */
 .zatsugami {
+	color: #fff;
+	background-color: #58f;
+}
+/* 紙パック */
+.carton {
 	color: #fff;
 	background-color: #58f;
 }
@@ -478,10 +483,30 @@ a.open-sidebar.md-btn-icon:visited {
 	color: #fff;
 	background-color: #392;
 }
+/* 粗大ごみ（不燃） */
+.largeNonburnable {
+	color: #fff;
+	background-color: #392;
+}
+/* 粗大ごみ（可燃） */
+.largeBurnable {
+	color: #fff;
+	background-color: #392;
+}
+/* 家電リサイクル */
+.kaden {
+	color: #fff;
+	background-color: #392;
+}
+/* パソコンリサイクル */
+.personalComputer {
+	color: #fff;
+	background-color: #392;
+}
 /* 収集不可 */
 .uncollectible {
 	color: #fff;
-	background-color: #d8e;
+	background-color: #222;
 }
 
 
