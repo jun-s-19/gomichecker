@@ -17,7 +17,7 @@
 	},
 	"PET":{
 		"name":"ペットボトル",
-		"shortText":"ペット"
+		"shortText":"PET"
 	},
 	"bottle":{
 		"name":"びん",
@@ -28,7 +28,7 @@
 		"shortText":"缶"
 	},
 	"newspaper":{
-		"name":"新聞",
+		"name":"新聞・チラシ",
 		"shortText":"新聞"
 	},
 	"cardboard":{
@@ -36,8 +36,12 @@
 		"shortText":"段"
 	},
 	"zatsugami":{
-		"name":"雑誌・雑紙・紙パック",
+		"name":"雑誌・雑紙",
 		"shortText":"雑紙"
+	},
+	"carton":{
+		"name":"紙パック",
+		"shortText":"紙パック"
 	},
 	"cloth":{
 		"name":"古着・古布",
