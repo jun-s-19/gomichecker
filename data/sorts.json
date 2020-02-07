@@ -33,7 +33,7 @@
 	},
 	"cardboard":{
 		"name":"ダンボール",
-		"shortText":"段"
+		"shortText":"ダンボール"
 	},
 	"zatsugami":{
 		"name":"雑誌・雑紙",
@@ -45,7 +45,7 @@
 	},
 	"cloth":{
 		"name":"古着・古布",
-		"shortText":"布"
+		"shortText":"古着・古布"
 	},
 	"recyclable":{
 		"text":"資源ごみ",
