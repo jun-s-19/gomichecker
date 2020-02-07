@@ -273,7 +273,7 @@
         "name": "衣装ケース（紙製）",
         "kana": "いしょうけーす（かみせい）",
         "description": "ひもでしっかりとしばる",
-        "sort": "段",
+        "sort": "ダンボール",
         "keywords": [],
         "recycle": null,
         "links": []
@@ -399,7 +399,7 @@
         "name": "衣類",
         "kana": "いるい",
         "description": "透明・半透明の袋.<br>汚れのひどいものは可燃ごみへ",
-        "sort": "布",
+        "sort": "古着・古布",
         "keywords": [],
         "recycle": null,
         "links": []
@@ -867,7 +867,7 @@
         "name": "帯",
         "kana": "おび",
         "description": "透明・半透明の袋.<br>汚れのひどいものは可燃ごみへ",
-        "sort": "布",
+        "sort": "古着・古布",
         "keywords": [],
         "recycle": null,
         "links": []
@@ -1452,7 +1452,7 @@
         "name": "カーテン（布製）",
         "kana": "かーてん（ぬのせい）",
         "description": "透明・半透明の袋.<br>汚れのひどいものは可燃ごみへ",
-        "sort": "布",
+        "sort": "古着・古布",
         "keywords": [],
         "recycle": null,
         "links": []
@@ -1470,7 +1470,7 @@
         "name": "カーテン（レース）",
         "kana": "かーてん（れーす）",
         "description": "透明・半透明の袋.<br>汚れのひどいものは可燃ごみへ",
-        "sort": "布",
+        "sort": "古着・古布",
         "keywords": [],
         "recycle": null,
         "links": []
@@ -1758,7 +1758,7 @@
         "name": "革製衣類",
         "kana": "かわせいいるい",
         "description": "透明・半透明の袋.<br>汚れのひどいものは可燃ごみへ",
-        "sort": "布",
+        "sort": "古着・古布",
         "keywords": [],
         "recycle": null,
         "links": []
@@ -2001,7 +2001,7 @@
         "name": "着物",
         "kana": "きもの",
         "description": "透明・半透明の袋.<br>汚れのひどいものは可燃ごみへ",
-        "sort": "布",
+        "sort": "古着・古布",
         "keywords": [],
         "recycle": null,
         "links": []
@@ -2298,7 +2298,7 @@
         "name": "靴下",
         "kana": "くつした",
         "description": "透明・半透明の袋.<br>汚れのひどいものは可燃ごみへ",
-        "sort": "布",
+        "sort": "古着・古布",
         "keywords": [],
         "recycle": null,
         "links": []
@@ -2316,7 +2316,7 @@
         "name": "クッションカバー",
         "kana": "くっしょんかばー",
         "description": "透明・半透明の袋.<br>汚れのひどいものは可燃ごみへ",
-        "sort": "布",
+        "sort": "古着・古布",
         "keywords": [],
         "recycle": null,
         "links": []
@@ -2685,7 +2685,7 @@
         "name": "コート",
         "kana": "こーと",
         "description": "透明・半透明の袋.<br>汚れのひどいものは可燃ごみへ",
-        "sort": "布",
+        "sort": "古着・古布",
         "keywords": [],
         "recycle": null,
         "links": []
@@ -2946,7 +2946,7 @@
         "name": "作業服",
         "kana": "さぎょうふく",
         "description": "透明・半透明の袋.<br>汚れのひどいものは可燃ごみへ",
-        "sort": "布",
+        "sort": "古着・古布",
         "keywords": [],
         "recycle": null,
         "links": []
@@ -3144,7 +3144,7 @@
         "name": "下着類",
         "kana": "したぎるい",
         "description": "透明・半透明の袋.<br>汚れのひどいものは可燃ごみへ",
-        "sort": "布",
+        "sort": "古着・古布",
         "keywords": [],
         "recycle": null,
         "links": []
@@ -3162,7 +3162,7 @@
         "name": "シーツ",
         "kana": "しーつ",
         "description": "透明・半透明の袋.<br>汚れのひどいものは可燃ごみへ",
-        "sort": "布",
+        "sort": "古着・古布",
         "keywords": [],
         "recycle": null,
         "links": []
@@ -3324,7 +3324,7 @@
         "name": "ジャケット",
         "kana": "じゃけっと",
         "description": "透明・半透明の袋.<br>汚れのひどいものは可燃ごみへ",
-        "sort": "布",
+        "sort": "古着・古布",
         "keywords": [],
         "recycle": null,
         "links": []
@@ -3450,7 +3450,7 @@
         "name": "収納ケース（紙製）",
         "kana": "しゅうのうけーす（かみせい）",
         "description": "ひもでしっかりとしばる",
-        "sort": "段",
+        "sort": "ダンボール",
         "keywords": [],
         "recycle": null,
         "links": []
@@ -3756,7 +3756,7 @@
         "name": "ジーンズ",
         "kana": "じーんず",
         "description": "透明・半透明の袋.<br>汚れのひどいものは可燃ごみへ",
-        "sort": "布",
+        "sort": "古着・古布",
         "keywords": [],
         "recycle": null,
         "links": []
@@ -3846,7 +3846,7 @@
         "name": "スカート",
         "kana": "すかーと",
         "description": "透明・半透明の袋.<br>汚れのひどいものは可燃ごみへ",
-        "sort": "布",
+        "sort": "古着・古布",
         "keywords": [],
         "recycle": null,
         "links": []
@@ -3864,7 +3864,7 @@
         "name": "スキーウェア",
         "kana": "すきーうぇあ",
         "description": "透明・半透明の袋.<br>汚れのひどいものは可燃ごみへ",
-        "sort": "布",
+        "sort": "古着・古布",
         "keywords": [],
         "recycle": null,
         "links": []
@@ -3990,7 +3990,7 @@
         "name": "スーツ（背広）",
         "kana": "すーつ（せびろ）",
         "description": "透明・半透明の袋.<br>汚れのひどいものは可燃ごみへ",
-        "sort": "布",
+        "sort": "古着・古布",
         "keywords": [],
         "recycle": null,
         "links": []
@@ -4152,7 +4152,7 @@
         "name": "ズボン",
         "kana": "ずぼん",
         "description": "透明・半透明の袋.<br>汚れのひどいものは可燃ごみへ",
-        "sort": "布",
+        "sort": "古着・古布",
         "keywords": [],
         "recycle": null,
         "links": []
@@ -4269,7 +4269,7 @@
         "name": "セーター",
         "kana": "せーたー",
         "description": "透明・半透明の袋.<br>汚れのひどいものは可燃ごみへ",
-        "sort": "布",
+        "sort": "古着・古布",
         "keywords": [],
         "recycle": null,
         "links": []
@@ -4314,7 +4314,7 @@
         "name": "背広（スーツ）",
         "kana": "せびろ（すーつ）",
         "description": "透明・半透明の袋.<br>汚れのひどいものは可燃ごみへ",
-        "sort": "布",
+        "sort": "古着・古布",
         "keywords": [],
         "recycle": null,
         "links": []
@@ -4629,7 +4629,7 @@
         "name": "ダウンジャケット・ベスト",
         "kana": "だうんじゃけっと・べすと",
         "description": "透明・半透明の袋.<br>汚れのひどいものは可燃ごみへ",
-        "sort": "布",
+        "sort": "古着・古布",
         "keywords": [],
         "recycle": null,
         "links": []
@@ -4638,7 +4638,7 @@
         "name": "タオル・タオルケット",
         "kana": "たおる・たおるけっと",
         "description": "透明・半透明の袋.<br>汚れのひどいものは可燃ごみへ",
-        "sort": "布",
+        "sort": "古着・古布",
         "keywords": [],
         "recycle": null,
         "links": []
@@ -4854,7 +4854,7 @@
         "name": "ダンボール",
         "kana": "だんぼーる",
         "description": "ひもでしっかりとしばる",
-        "sort": "段",
+        "sort": "ダンボール",
         "keywords": [],
         "recycle": null,
         "links": []
@@ -5160,7 +5160,7 @@
         "name": "Ｔシャツ",
         "kana": "てぃーしゃつ",
         "description": "透明・半透明の袋.<br>汚れのひどいものは可燃ごみへ",
-        "sort": "布",
+        "sort": "古着・古布",
         "keywords": [],
         "recycle": null,
         "links": []
@@ -6069,7 +6069,7 @@
         "name": "布切れ",
         "kana": "ぬのきれ",
         "description": "透明・半透明の袋.<br>ハンカチ大以上の大きさのもの",
-        "sort": "布",
+        "sort": "古着・古布",
         "keywords": [],
         "recycle": null,
         "links": []
@@ -6087,7 +6087,7 @@
         "name": "ネクタイ",
         "kana": "ねくたい",
         "description": "透明・半透明の袋.<br>汚れのひどいものは可燃ごみへ",
-        "sort": "布",
+        "sort": "古着・古布",
         "keywords": [],
         "recycle": null,
         "links": []
@@ -6438,7 +6438,7 @@
         "name": "パジャマ",
         "kana": "ぱじゃま",
         "description": "透明・半透明の袋.<br>汚れのひどいものは可燃ごみへ",
-        "sort": "布",
+        "sort": "古着・古布",
         "keywords": [],
         "recycle": null,
         "links": []
@@ -7086,7 +7086,7 @@
         "name": "服",
         "kana": "ふく",
         "description": "透明・半透明の袋.<br>汚れのひどいものは可燃ごみへ",
-        "sort": "布",
+        "sort": "古着・古布",
         "keywords": [],
         "recycle": null,
         "links": []
@@ -7203,7 +7203,7 @@
         "name": "布団カバー",
         "kana": "ふとんかばー",
         "description": "透明・半透明の袋.<br>汚れのひどいものは可燃ごみへ",
-        "sort": "布",
+        "sort": "古着・古布",
         "keywords": [],
         "recycle": null,
         "links": []
@@ -7284,7 +7284,7 @@
         "name": "ブラジャー",
         "kana": "ぶらじゃー",
         "description": "透明・半透明の袋.<br>汚れのひどいものは可燃ごみへ",
-        "sort": "布",
+        "sort": "古着・古布",
         "keywords": [],
         "recycle": null,
         "links": []
@@ -7464,7 +7464,7 @@
         "name": "風呂敷",
         "kana": "ふろしき",
         "description": "透明・半透明の袋.<br>汚れのひどいものは可燃ごみへ",
-        "sort": "布",
+        "sort": "古着・古布",
         "keywords": [],
         "recycle": null,
         "links": []
@@ -7923,7 +7923,7 @@
         "name": "帽子",
         "kana": "ぼうし",
         "description": "透明・半透明の袋.<br>汚れのひどいものは可燃ごみへ",
-        "sort": "布",
+        "sort": "古着・古布",
         "keywords": [],
         "recycle": null,
         "links": []
@@ -8346,7 +8346,7 @@
         "name": "枕カバー",
         "kana": "まくらかばー",
         "description": "透明・半透明の袋.<br>汚れのひどいものは可燃ごみへ",
-        "sort": "布",
+        "sort": "古着・古布",
         "keywords": [],
         "recycle": null,
         "links": []
@@ -8760,7 +8760,7 @@
         "name": "毛布",
         "kana": "もうふ",
         "description": "透明・半透明の袋.<br>汚れのひどいものは可燃ごみへ",
-        "sort": "布",
+        "sort": "古着・古布",
         "keywords": [],
         "recycle": null,
         "links": []
@@ -8868,7 +8868,7 @@
         "name": "浴衣",
         "kana": "ゆかた",
         "description": "透明・半透明の袋.<br>汚れのひどいものは可燃ごみへ",
-        "sort": "布",
+        "sort": "古着・古布",
         "keywords": [],
         "recycle": null,
         "links": []
@@ -9318,7 +9318,7 @@
         "name": "ワイシャツ",
         "kana": "わいしゃつ",
         "description": "透明・半透明の袋.<br>汚れのひどいものは可燃ごみへ",
-        "sort": "布",
+        "sort": "古着・古布",
         "keywords": [],
         "recycle": null,
         "links": []
