@@ -680,7 +680,7 @@ a.open-sidebar.md-btn-icon:visited {
 #sorting-list .sort-icon {
 	position: absolute;
 	top: 50%;
-	width: 40px;
+	width: 65px;
 	line-height: 20px;
 	color: #fff;
 	font-size: 11px;
@@ -702,7 +702,7 @@ a.open-sidebar.md-btn-icon:visited {
 	text-overflow: ellipsis;
 }
 #sorting-list a .description {
-	margin-left: 56px;
+	margin-left: 80px;
 }
 #sorting-list li h2 {
 	font-size: 100%;
