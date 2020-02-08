@@ -421,22 +421,22 @@ a.open-sidebar.md-btn-icon:visited {
 /* 可燃ごみ */
 .burnable {
 	color: #fff;
-	background-color: #f45;
+	background-color: #58f;
 }
 /* 不燃ごみ */
 .nonburnable {
 	color: #fff;
-	background-color: #58f;
+	background-color: #E6CF00;
 }
 /* 有害ごみ */
 .harmful {
 	color: #fff;
-	background-color: #222;
+	background-color: #951E69;
 }
 /* 容器包装プラスチック */
 .plastic {
 	color: #fff;
-	background-color: #999;
+	background-color: #93B11D;
 }
 /* ペットボトル */
 .PET {
@@ -446,12 +446,12 @@ a.open-sidebar.md-btn-icon:visited {
 /* びん */
 .bottle {
 	color: #fff;
-	background-color: #999;
+	background-color: #008348;
 }
 /* 缶 */
 .can {
 	color: #fff;
-	background-color: #372;
+	background-color: #008348;
 }
 /* 新聞 */
 .newspaper {
@@ -461,37 +461,32 @@ a.open-sidebar.md-btn-icon:visited {
 /* ダンボール */
 .cardboard {
 	color: #fff;
-	background-color: #58f;
+	background-color: #717171;
 }
 /* 雑誌・雑紙 */
 .zatsugami {
 	color: #fff;
-	background-color: #58f;
+	background-color: #717171;
 }
 /* 紙パック */
 .carton {
 	color: #fff;
-	background-color: #58f;
+	background-color: #717171;
 }
 /* 古着・古布 */
 .cloth {
 	color: #fff;
-	background-color: #58f;
-}
-/* 資源ごみ */
-.recyclable {
-	color: #fff;
-	background-color: #392;
+	background-color: #717171;
 }
 /* 粗大ごみ（不燃） */
 .largeNonburnable {
 	color: #fff;
-	background-color: #392;
+	background-color: #AC1B4E;
 }
 /* 粗大ごみ（可燃） */
 .largeBurnable {
 	color: #fff;
-	background-color: #392;
+	background-color: #AC1B4E;
 }
 /* 家電リサイクル */
 .kaden {
