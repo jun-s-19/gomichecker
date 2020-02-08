@@ -6,7 +6,12 @@
         "sort": "不燃",
         "keywords": [],
         "recycle": null,
-        "links": []
+        "links": [
+            {
+                "title":"不燃ごみの出し方",
+                "url":"https://www.city.hachioji.tokyo.jp/kurashi/gomi/gomi_shigenbutsunodashikata/001/001/p002472.html"
+            }
+        ]
     },
     {
         "name": "アイロン台",
