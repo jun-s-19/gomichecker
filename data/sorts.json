@@ -12,39 +12,39 @@
 		"shortText":"有害"
 	},
 	"plastic":{
-		"name":"容器包装プラスチック",
+		"text":"容器包装プラスチック",
 		"shortText":"プラ"
 	},
 	"PET":{
-		"name":"ペットボトル",
+		"text":"ペットボトル",
 		"shortText":"PET"
 	},
 	"bottle":{
-		"name":"びん",
+		"text":"びん",
 		"shortText":"びん"
 	},
 	"can":{
-		"name":"缶",
+		"text":"缶",
 		"shortText":"缶"
 	},
 	"newspaper":{
-		"name":"新聞・チラシ",
+		"text":"新聞・チラシ",
 		"shortText":"新聞"
 	},
 	"cardboard":{
-		"name":"ダンボール",
+		"text":"ダンボール",
 		"shortText":"ダンボール"
 	},
 	"zatsugami":{
-		"name":"雑誌・雑紙",
+		"text":"雑誌・雑紙",
 		"shortText":"雑紙"
 	},
 	"carton":{
-		"name":"紙パック",
+		"text":"紙パック",
 		"shortText":"紙パック"
 	},
 	"cloth":{
-		"name":"古着・古布",
+		"text":"古着・古布",
 		"shortText":"古着・古布"
 	},
 	"recyclable":{
